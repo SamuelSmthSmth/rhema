@@ -1,5 +1,7 @@
-[![](https://github.com/monkeytypegame/monkeytype/blob/master/frontend/static/images/githubbanner2.png?raw=true)](https://monkeytype.com/)
+<!--- [![](https://github.com/monkeytypegame/monkeytype/blob/master/frontend/static/images/githubbanner2.png?raw=true)](https://monkeytype.com/) -->
 <br />
+
+# Rhema
 
 [![ChartJs](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
 [![Eslint](https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
@@ -23,7 +25,7 @@
 
 # About
 
-Monkeytype is a minimalistic and customizable [typing test](https://www.monkeytype.com). It features many test modes, an account system to save your typing speed history, and user-configurable features such as themes, sounds, a smooth caret, and more. Monkeytype attempts to emulate a natural typing experience during a typing test by unobtrusively presenting the text prompts and displaying typed characters in place, providing straightforward, real-time feedback on typos, speed, and accuracy.
+Rhema is a minimalistic and customizable scripture memorization tool, built as a specialized fork of Monkeytype. It focuses on deep scripture meditation and recall. It features various memorization modes (like Blind and First-Letter), an account system to save your progress, and user-configurable features such as themes, sounds, and versions. Rhema attempts to provide a focused, tactile experience for memorizing the Word by presenting text prompts in a clean, distraction-free environment.
 
 # Features
 
@@ -39,34 +41,6 @@ Monkeytype is a minimalistic and customizable [typing test](https://www.monkeyty
 - challenges and just-for-fun test modifiers
 - and much more
 
-# Discord bot
-
-On the [Monkeytype Discord server](https://www.discord.gg/monkeytype), we added a Discord bot to auto-assign optional roles based on typing performance and challenge completion. You can find its code over at https://github.com/monkeytypegame/monkeytype-bot.
-
-# Bug report or Feature request
-
-If you encounter a bug or have a feature request, [send us an email](mailto:contact@monkeytype.com), [create an issue](https://github.com/monkeytypegame/monkeytype/issues), [create a discussion thread](https://github.com/monkeytypegame/monkeytype/discussions), or [join the Discord server](https://www.discord.gg/monkeytype).
-
-# Want to Contribute?
-
-Refer to [CONTRIBUTING.md](./docs/CONTRIBUTING.md).
-
-# Code of Conduct
-
-Before contributing to this repository, please read the [code of conduct](./docs/CODE_OF_CONDUCT.md).
-
-# Security
-
-To report a security vulnerability, please refer to [SECURITY.md](./docs/SECURITY.md).
-
-# Credits
-
-[Montydrei](https://www.reddit.com/user/montydrei) for the name suggestion.
-
-Everyone who provided valuable feedback on the [original Reddit post](https://www.reddit.com/r/MechanicalKeyboards/comments/gc6wx3/experimenting_with_a_completely_new_type_of/) for the prototype of this website.
-
-All of the [contributors](https://github.com/monkeytypegame/monkeytype/graphs/contributors) have helped implement various features, add themes, fix bugs, and more.
-
 # Support
 
-If you wish to support further development and feel extra awesome, you can [donate](https://ko-fi.com/monkeytype), [become a Patron](https://www.patreon.com/monkeytype) or [buy a t-shirt](https://www.monkeytype.store/).
+The Lord already paid me :)
